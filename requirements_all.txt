@@ -67,6 +67,9 @@ WSDiscovery==2.0.0
 # homeassistant.components.waze_travel_time
 WazeRouteCalculator==0.14
 
+# homeassistant.components.remootio
+aioremootio==1.0.0a13
+
 # homeassistant.components.abode
 abodepy==1.2.0
 
